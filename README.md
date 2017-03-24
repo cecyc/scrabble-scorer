@@ -1,4 +1,4 @@
-##Scrabble Scorer
+## Scrabble Scorer
 
 This Scrabble Scorer takes a word in the form of a string, and returns the score to you based on the value of each letter.
 
